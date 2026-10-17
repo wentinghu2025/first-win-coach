@@ -4,7 +4,8 @@
 | --- | --- |
 | **Status** | Round 1 prototype, ready for pilot testing |
 | **Last updated** | October 17, 2026 |
-| **Demo** | [`index.html`](index.html) (open in any browser, or via GitHub Pages) |
+| **Live demo** | [wentinghu2025.github.io/first-win-coach](https://wentinghu2025.github.io/first-win-coach/) |
+| **Source** | [`index.html`](index.html) (single self-contained file) |
 | **Audience for this doc** | Product, design, research and engineering on the team |
 
 ---
