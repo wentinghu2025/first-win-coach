@@ -2,12 +2,14 @@
 
 **One better request changes what AI gives you back.**
 
+**▶ Live demo: [wentinghu2025.github.io/first-win-coach](https://wentinghu2025.github.io/first-win-coach/)**
+
 First Win Coach is an interactive prototype that teaches people in non-tech jobs how to get useful work out of AI. Instead of a course, it walks through two realistic workplace stories. In each one, a worker's first request to AI goes wrong, the user fixes it by adding facts the worker already has, and then the user writes a request for a new situation on their own.
 
 ## Try it
 
-- **Online:** after enabling GitHub Pages (see below), the demo is at `https://<your-org>.github.io/<repo-name>/`
-- **Locally:** download [`index.html`](index.html) and double-click it. It's a single self-contained file and works offline.
+- **Online:** open **[https://wentinghu2025.github.io/first-win-coach/](https://wentinghu2025.github.io/first-win-coach/)**. No account or install needed; works on phones too.
+- **Offline:** download [`index.html`](index.html) and double-click it. It's a single self-contained file.
 
 Each story takes about 4 minutes. Every answer is pre-scripted, so the demo behaves the same way every time and needs no account or API key.
 
@@ -29,14 +31,9 @@ Each story takes about 4 minutes. Every answer is pre-scripted, so the demo beha
 | 05 | Sent | The answer in the real world, and how the customer or boss replies |
 | 06 | Your turn | A new situation. Write the request yourself, with no checklist, and see the result |
 
-## Publish with GitHub Pages
+## Updating the demo
 
-1. Push this folder to a GitHub repository (`index.html` must be at the root).
-2. In the repository, go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to *Deploy from a branch*, choose `main` and `/ (root)`, then **Save**.
-4. After a minute, the demo is live at `https://<your-org>.github.io/<repo-name>/`.
-
-If the repository is private, GitHub Pages availability depends on your GitHub plan. You can also host `index.html` on any static host, or just share the file.
+The live demo is published from the `main` branch with GitHub Pages. To change it, edit `index.html` (on GitHub: open the file, click the pencil icon, then **Commit changes**). The live site updates within a minute or two; refresh with Ctrl+F5 (Windows) or Cmd+Shift+R (Mac) if you still see the old version.
 
 ## Repository structure
 
